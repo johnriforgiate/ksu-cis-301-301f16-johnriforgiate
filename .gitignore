@@ -1,0 +1,12 @@
+/lib_managed
+/target
+/project/target
+/.idea/workspace.xml
+/.idea/tasks.xml
+/.idea/dictionaries
+/.idea/dataSources.ids
+/.idea/dataSources.xml
+/.idea/sqlDataSources.xml
+/.idea/dynamic.xml
+/.idea/uiDesigner.xml
+*.class
