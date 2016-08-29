@@ -25,7 +25,7 @@ Logika truth table, then the solution file should be named
 directory.
 Another example, if the fourth problem in Homework #2 is
 a Z3 query, then the solution file should be named
-``4.smt`` and stored immediately under the ``hw4`` directory.
+``4.smt`` and stored immediately under the ``hw2`` directory.
 
 The grading script will assume the above file/directory
 conventions, thus, any deviation will result in a zero point
@@ -124,5 +124,5 @@ If you have questions on Git or GitHub, we will be happy to help
 you (contact us at help-301@santoslab.org).
 However, it might be prudent to first try to find answers at
 https://stackoverflow.com or https://google.com as it
-is highly likely that someone else have already asked the
+is highly likely that someone else has already asked the
 questions that you have in mind (and answered them thoroughly).
